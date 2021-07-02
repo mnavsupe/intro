@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayur Navsupe</h1>
-<h3 align="center">Member Technical Staff QA</h3>
+<h3 align="center">Senior Member Technical Staff QA</h3>
 
 - 💬 Ask me about **API Testing , Performance Testing , AWS, Database ,Automation**
 
